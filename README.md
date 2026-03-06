@@ -93,6 +93,7 @@ This project was built to answer all of those questions clearly and visually.
 | Trends of Sales,Profit and cost, Total Sales Per year | Is overall revenue growing, declining, or plateauing year on year? |
 
 ### 📸 Dashboard Preview
+[Dashboard 1 Overview](screenshots/DashboardSales.png)
 > *<img width="895" height="424" alt="DashboardSales" src="https://github.com/user-attachments/assets/43b164bc-43fd-4ecc-878a-70ecc40ef7f8" />
 *
 
@@ -132,7 +133,8 @@ Excelsia and Arabica are relatively stable but declining, suggesting market fati
 | Top 9 Customers by Cumulative Spend | Who are our highest-value customers and how much have they spent? |
 | Litres of Coffee and Roast Type Consumed| What is the most consumed coffee and Roast type "Customer's Favorite|
 
-### 📸 Dashboard Preview
+### 📸 Dashboard 
+[Dashboard 1 Overview](screenshots/DashboardCustomer.png)
 > *<img width="897" height="448" alt="DashboardCustomer" src="https://github.com/user-attachments/assets/8c53f6aa-c27a-4a2b-8998-fb3d07353da8" />
 *
 
