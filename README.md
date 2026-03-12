@@ -37,11 +37,13 @@ The analysis was conducted **end-to-end** — from raw data extraction and clean
 
 ### At a Glance
 
-| | | | | |
-|---|---|---|---|---|
-| **4 Years** | **2 Dashboards** | **12 Visuals** | **3 Teams Served** | **360° Coverage** |
-| Data Period | Built | Produced | Audience | Business Scope |
-
+| Detail | Info |
+|---|---|
+| **Dataset** | Coffee Shop Transactions 2019–2022 |
+| **Records** | 3,551 orders · 913 customers |
+| **Countries** | United States · United Kingdom · Ireland |
+| **Tool** | Microsoft Excel + Power Query |
+| **Deliverable** | 2 Interactive Dashboards + Written Report |
 ---
 
 ## 2. Business Problem
@@ -87,7 +89,7 @@ This project was built to answer all of those questions clearly and visually.
 
 | Visual Title | Business Question Answered |
 |-------------|---------------------------|
-| Profit comparism among countries | Which markets generate the highest profit and where should we focus growth? |
+| Profit comparison among countries | Which markets generate the highest profit and where should we focus growth? |
 | Which Combination of Coffee Type & Roast Makes the Most Profit? ,% Profit Change by Coffee Type, Profit from Coffee Types| Which product combination should we prioritise for margin optimisation? |
 | Size Performance Breakdown: Volume, Revenue & Profit Share | Does the best-selling size generate the most profit, or are we over-indexing on low-margin sizes? |
 | Trends of Sales,Profit and cost, Total Sales Per year | Is overall revenue growing, declining, or plateauing year on year? |
@@ -151,7 +153,8 @@ Excelsia and Arabica are relatively stable but declining, suggesting market fati
  ### Recommendations
 
 1. **Incentivize demand for 2.5litre sizes.** Since from the sales dashboard we know that 2.5 litres cup generate the most profit , we could put out some incentives to increase the demand for the size
-2. **Incentives for Coffee types.** The Robusta and Liberica coffee type are the highest profit generators, their demand should be incentivized.
+2. **Incentives for Coffee types.** Liberica is the highest profit generator, its demand should be incentivised.
+   Robusta despite being the top seller generates the least profit and needs repricing.
 3. **Grow loyalty card membership aggressively.** If card holders buy significantly more, the priority should be converting casual customers. A sign-up incentive — first drink free, or a points bonus on registration — could meaningfully shift the ratio. And also encouraging the card owners to buy more could increase sale. 
 4. **Regulate the customer Favorite coffee type.** The coffee type that’s the customers favorite should be also benefit the business. The price should be regulated. 
 
@@ -192,19 +195,32 @@ The 2.9% overall profit margin is the number that should keep management awake. 
 
 ```
 CoffeeShopProject/
-  ├── README.md                        ← You are here
-  ├── data/
-  │    ├── raw_data.xlsx               ← Original unmodified dataset
-  │    └── cleaned_data.xlsx           ← Cleaned & transformed dataset
-  ├── dashboards/
-  │    ├── profitability_dashboard.xlsx
-  │    └── customer_dashboard.xlsl
-  ├── report/
-  │    └── CofeeShopProject.docx
-  └── screenshots/
-       ├── dashboard_1_overview.png
-       └── dashboard_2_overview.png
+  ├── README.md                          ← You are here
+  ├── CoffeeOrdersData.xlsx              ← raw dataset
+  ├── CompletedCoffeeProject.xlsx        ← Cleaned & transformed dataset
+  │
+  ├── DashboardCustomer.PNG
+  ├── DashboardSales.PNG
+  ├── 
+  └── report
+      └── CoffeeShopProject.pdf
+       
 ```
+## 🚀 How to Use This Project
+
+1. **Clone or download** this repository (green 'Code' button → Download ZIP)
+2. Open `CompletedCoffeeProject.xlsx` in Microsoft Excel (2016 or later)
+3. Use the **slicers** on the Dashboard tab to filter by Region, Year, Category
+4. Review `CoffeeShopProject.pdf` for the full written analysis
+
+---
+
+## 📚 Dataset Source
+
+- **Dataset:** coffeeOrdersData.xlsx
+- **Source:** Mochen862/excel-project-coffee-sales (on github)
+- **License:** Public
+---
 
 ---
 
@@ -213,7 +229,7 @@ CoffeeShopProject/
 **[Oluwatosin Ogunwale]** — Data Analyst | Excel • Power BI | Tech & Finance
 
 - 📧 [oluwatosinogunwale35@gmail.com]
-- 💼 [https://www.linkedin.com/in/Oluwatosin-ogunwale.com]
+- 💼 [https://www.linkedin.com/in/Oluwatosin-ogunwale]
 - 🐙 [github.com/Oluwatosin-ogunwale]
 - 🌐 [oluwatosin-ogunwale.github.io]
 
