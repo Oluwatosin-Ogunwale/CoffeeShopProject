@@ -145,7 +145,7 @@ Excelsia and Arabica are relatively stable but declining, suggesting market fati
 
 
 - **Demand seasonality:** Monthly order volume peaks in February–March (~400+ cups) and dips significantly(to about 200) in August–October, revealing a clear seasonal trough to plan promotions around. This should also inform us that the number of cups needed for a month is about 200-400 for smooth running. The number of orders however ranges from 109-64, this shows we need an average of 3 cups per order. Not necessarily meaning that each order serves 3 cups.
--**Coffee Size Trends:** The 0.2 litre and 0.5 litre cup sizes demand seems  to be increasing as the year runs by, the 1 litre cup demand recorded a dip in 2020 but has turned out to be the most preferred size by 2021. The 2.5 litre cup seems to have maintained its demand approximately.
+- **Coffee Size Trends:** The 0.2 litre and 0.5 litre cup sizes demand seems  to be increasing as the year runs by, the 1 litre cup demand recorded a dip in 2020 but has turned out to be the most preferred size by 2021. The 2.5 litre cup seems to have maintained its demand approximately.
 - **Shifting preferences:** The demand for Arabica and Excelsia coffee type seems  to be increasing as the year runs by, while [LIB and ROB]’s demand  dipped in 2020 it grew in 2021. This shift should inform procurement and menu prioritisation.
 - **Loyalty programme impact:** Non-loyalty card holders slightly outpurchase loyalty members (~53% vs ~47% in volume), which is counterintuitive — the loyalty program doesn't appear to be driving meaningfully higher purchase frequency. The customers who do not have loyalty cards are also more than those that do.
 - **Customer concentration risk:** Top customer (Ailey Brash) leads cumulative spend at ~₦320, but the top 9 customers are closely clustered between ₦250–₦340, suggesting no single customer is dangerously dominant.
@@ -228,10 +228,10 @@ CoffeeShopProject/
 
 **[Oluwatosin Ogunwale]** — Data Analyst | Excel • Power BI | Tech & Finance
 
-- 📧 [oluwatosinogunwale35@gmail.com]
-- 💼 [https://www.linkedin.com/in/Oluwatosin-ogunwale]
-- 🐙 [github.com/Oluwatosin-ogunwale]
-- 🌐 [oluwatosin-ogunwale.github.io]
+- 📧 [oluwatosinogunwale35@gmail.com](mailto:https://www.oluwatosinogunwale35@gmail.com)
+- 💼 [linkedin.com/in/oluwatosin-ogunwale](https://www.linkedin.com/in/Oluwatosin-ogunwale)
+- 🐙 [github.com/Oluwatosin-ogunwale](https://github.com/Oluwatosin-Ogunwale)
+- 🌐 [oluwatosin-ogunwale.github.io](https://oluwatosin-ogunwale.github.io)
 
 ---
 
