@@ -136,7 +136,7 @@ Excelsia and Arabica are relatively stable but declining, suggesting market fati
 | Litres of Coffee and Roast Type Consumed| What is the most consumed coffee and Roast type "Customer's Favorite|
 
 ### 📸 Dashboard 
-[Dashboard 1 Overview](DashboardCustomer.PNG)
+[Dashboard 2 Overview](DashboardCustomer.PNG)
 > *<img width="897" height="448" alt="DashboardCustomer" src="https://github.com/user-attachments/assets/8c53f6aa-c27a-4a2b-8998-fb3d07353da8" />
 *
 
