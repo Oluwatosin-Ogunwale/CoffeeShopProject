@@ -5,7 +5,7 @@
 
 ---
 ## Summary
-This report presents a comprehensive business intelligence analysis of a specialty coffee shop serving 913 customers across three countries; the United States, United Kingdom, and Ireland; over a four-year period from 2019 to 2022. The business fulfilled 3,551 orders generating total sales of ₦45,134.26 and a total profit of ₦1,301.38, representing a profit margin of approximately 2.9%  a figure that sits at the centre of this analysis.
+This report presents a comprehensive business intelligence analysis of a specialty coffee shop serving 913 customers across three countries; the United States, United Kingdom, and Ireland; over a four-year period from 2019 to 2022. The business fulfilled 3,551 orders generating total sales of $45,134.26 and a total profit of $1,301.38, representing a profit margin of approximately 2.9%  a figure that sits at the centre of this analysis.
 Two interactive Excel dashboards were built to interrogate the data across three critical business dimensions: product profitability, customer behaviour, and demand patterns. Together they surface a business operating with strong sales momentum but structurally compromised profitability a gap that is both explainable and addressable.
 The analysis reveals three findings that demand immediate management attention. First, the best-selling product is the worst profit generator; Robusta drives the highest sales volume but returns the lowest profit across all roast types, creating a dangerous misalignment between revenue activity and financial return. Second, the most profitable product is being undermarketed; Liberica Light Roast generates the highest profit margin in the entire range yet does not lead in sales, representing a missed commercial opportunity. Third, the loyalty programme is not working as intended; customers without loyalty cards are purchasing at a slightly higher volume than cardholders, which inverts the fundamental logic of the programme.
 The recommendations in this report are structured to address all three problems directly through pricing revision, targeted promotion, and loyalty programme redesign.
@@ -100,20 +100,20 @@ This project was built to answer all of those questions clearly and visually.
 *
 
 ### Key Findings
-The business served 913 customers across 3 countries (US, UK, Ireland) over 4 years (2019–2022), fulfilling 3,551 cups with total sales of ₦45,134.26 and a slim profit of ₦1,301.38 — a ~2.9% profit margin, which is concerningly low.
+The business served 913 customers across 3 countries (US, UK, Ireland) over 4 years (2019–2022), fulfilling 3,551 cups with total sales of $45,134.26 and a slim profit of $1,301.38 — a ~2.9% profit margin, which is concerningly low.
 
 
-- **Geographic concentration:** The United States accounts for 78% of total profit, suggesting the business is heavily dependent on the country.Ireland contributes 15% (₦202.02) which is decent for its relative size. United Kingdom only contributes 7% (₦86.60), suggesting either low penetration or poor product-market fit there.
-- **Profitability Insights:** From the %profit change by coffee type, The 2022 points should be ignored because we only have data up till august 2022, however,  Robusta (Rob) and Excelsia(EXC) seem to have recorded a decrease in profitability in 2021 (-10.485)while Liberica (Lib) and Arabica (Ara) were able to peak up to 20+% increase in profitability the same year. The combination chart also shows that ROB has maintained a low profit generation trend for the three types of roast while LIB has maintained the highest profit generator for the three roast types. 
-- **Coffee Type Best Seller:** Robusta (Rob) is the best seller, it has maintained the highest sales figure and consistently outperforms other types.Arabica (ARA) is the least sales generator, it has maintained a record below #4,000 in total sales over the years
-Excelsia and Arabica are relatively stable but declining, suggesting market fatigue or pricing pressure.
+- **Geographic concentration:** The United States accounts for 78% of total profit, suggesting the business is heavily dependent on the country.Ireland contributes 15% ($202.02) which is decent for its relative size. United Kingdom only contributes 7% ($86.60), suggesting either low penetration or poor product-market fit there.
+- **Profitability Insights:** From the %profit change by coffee type, The 2022 points should be ignored because we only have data up till august 2022, however,  Robusta (Rob) and Excelsa(EXC) seem to have recorded a decrease in profitability in 2021 (-10.485)while Liberica (Lib) and Arabica (Ara) were able to peak up to 20+% increase in profitability the same year. The combination chart also shows that ROB has maintained a low profit generation trend for the three types of roast while LIB has maintained the highest profit generator for the three roast types. 
+- **Coffee Type Best Seller:** Robusta (Rob) is the best seller, it has maintained the highest sales figure and consistently outperforms other types.Arabica (ARA) is the least sales generator, it has maintained a record below $4,000 in total sales over the years
+Excelsa and Arabica are relatively stable but declining, suggesting market fatigue or pricing pressure.
 - **Size paradox:** All the cups are quite balanced on the quantity ordered but the 2.5litre size ranks number 1 in percent profit of total profit earned and sales made. The 2.5litre size delivers 30 %  of total profit higher  the other sizes despite them having the same number of orders. This show that it has potential and pushing more quantity will result in significant increase in profit.0.2 litre cups contribute the least across all three metrics (profit, sales, quantity),even though the number of cups sold is approximately the same as the other sizes(profit per cup is quite low), suggesting they may not be worth the operational overhead.
-- **Revenue trend** Revenue grew consistently from 2019 to 2021, with a notable  increase in 2021 anda notable decrease in 2022(because of incomplete data. The trend of sales, profit and cost suggests that the profit is not so responsive the increase in sales and that warrants further investigation.
+- **Revenue trend** Revenue grew consistently from 2019 to 2021, with a notable  increase in 2021 and a notable decrease in 2022(because of incomplete data. The trend of sales, profit and cost suggests that the profit is not so responsive the increase in sales and that warrants further investigation.
 
 ### Recommendations
 
 1. **Prioritize the Liberica especially the Light roast type** in promotional activity and menu placement. It needs visibility, not discounting .Even though Liberica is the second best sales generating product, L-Light Roast type of Liberica Coffee type generates the highest profit 14% of the total profits generated. Robusta might be dragging the overall profitability down significantly; some action needs to be taken. Robusta’s pricing needs to revised because it powers the most sales but it gives back the least profit.
-2. **Review size pricing strategy.** Since all the Sizes have roughly the same number of orders,  the 2.5litre is undermarketed, not underperforming. The opportunity is in steering existing demand, not generating new demand we could display 2.5litre prominently as the "Best Value" option or Offer a "top-up deal" ; "Upgrade from 1litre to 2.5litrefor just ₦X more".Reward loyalty members extra points specifically for purchasing 2.5litre Cups, this would also fix the underperforming loyalty card program. 
+2. **Review size pricing strategy.** Since all the Sizes have roughly the same number of orders,  the 2.5litre is undermarketed, not underperforming. The opportunity is in steering existing demand, not generating new demand we could display 2.5litre prominently as the "Best Value" option or Offer a "top-up deal" ; "Upgrade from 1litre to 2.5litrefor just $X more".Reward loyalty members extra points specifically for purchasing 2.5litre Cups, this would also fix the underperforming loyalty card program. 
 3. **Investigate the unresponsiveness of the profit to the increase in sales in 2021.** More investigation needs to conducted.
 
 ---
@@ -146,16 +146,16 @@ Excelsia and Arabica are relatively stable but declining, suggesting market fati
 
 - **Demand seasonality:** Monthly order volume peaks in February–March (~400+ cups) and dips significantly(to about 200) in August–October, revealing a clear seasonal trough to plan promotions around. This should also inform us that the number of cups needed for a month is about 200-400 for smooth running. The number of orders however ranges from 109-64, this shows we need an average of 3 cups per order. Not necessarily meaning that each order serves 3 cups.
 - **Coffee Size Trends:** The 0.2 litre and 0.5 litre cup sizes demand seems  to be increasing as the year runs by, the 1 litre cup demand recorded a dip in 2020 but has turned out to be the most preferred size by 2021. The 2.5 litre cup seems to have maintained its demand approximately.
-- **Shifting preferences:** The demand for Arabica and Excelsia coffee type seems  to be increasing as the year runs by, while [LIB and ROB]’s demand  dipped in 2020 it grew in 2021. This shift should inform procurement and menu prioritisation.
+- **Shifting preferences:** The demand for Arabica and Excelsa coffee type seems  to be increasing as the year runs by, while [LIB and ROB]’s demand  dipped in 2020 it grew in 2021. This shift should inform procurement and menu prioritisation.
 - **Loyalty programme impact:** Non-loyalty card holders slightly outpurchase loyalty members (~53% vs ~47% in volume), which is counterintuitive — the loyalty program doesn't appear to be driving meaningfully higher purchase frequency. The customers who do not have loyalty cards are also more than those that do.
-- **Customer concentration risk:** Top customer (Ailey Brash) leads cumulative spend at ~₦320, but the top 9 customers are closely clustered between ₦250–₦340, suggesting no single customer is dangerously dominant.
+- **Customer concentration risk:** Top customer (Ailey Brash) leads cumulative spend at ~$320, but the top 9 customers are closely clustered between $250–$340, suggesting no single customer is dangerously dominant.
 **Customer's Favorite Drink:** The highest litres of coffee consumed was the Arabica light roast while the least litre of coffee consumed was the Liberica medium roast.
  ### Recommendations
 
 1. **Incentivize demand for 2.5litre sizes.** Since from the sales dashboard we know that 2.5 litres cup generate the most profit , we could put out some incentives to increase the demand for the size
 2. **Incentives for Coffee types.** Liberica is the highest profit generator, its demand should be incentivised.
    Robusta despite being the top seller generates the least profit and needs repricing.
-3. **Grow loyalty card membership aggressively.** If card holders buy significantly more, the priority should be converting casual customers. A sign-up incentive — first drink free, or a points bonus on registration — could meaningfully shift the ratio. And also encouraging the card owners to buy more could increase sale. 
+3. **Grow loyalty card membership aggressively.** If card holders buy significantly more, the priority should be converting casual customers. A sign-up incentive; first drink free, or a points bonus on registration could meaningfully shift the ratio. And also encouraging the card owners to buy more could increase sale. 
 4. **Regulate the customer Favorite coffee type.** The coffee type that’s the customers favorite should be also benefit the business. The price should be regulated. 
 
 ---
@@ -166,7 +166,7 @@ Excelsia and Arabica are relatively stable but declining, suggesting market fati
 ### Cleaning Steps Performed
 - Removed duplicate order records identified through order ID cross-referencing
 - Standardised date formats across all tables to enable accurate time-series analysis
-- Validated product category labels for consistency — corrected mislabelled roast type entries
+- Validated product category labels for consistency;corrected mislabelled roast type entries
 - Cross-checked revenue figures against quantity × unit price to identify and correct pricing anomalies
 
 ### Known Limitations
@@ -183,7 +183,7 @@ Excelsia and Arabica are relatively stable but declining, suggesting market fati
 This analysis set out to answer four questions that the business could not previously answer with confidence: which products were most profitable, what customers preferred, whether the loyalty programme was working, and how demand was shifting over time. All four questions now have clear, data-supported answers.
 The most consequential finding is structural. Across 3,551 orders and four years of trading, the highest-selling coffee type generated the lowest profit, and the highest-profit coffee type was not the most promoted. Robusta's dominance in sales volume masked a profitability problem that would have remained invisible without this analysis. Meanwhile Liberica, particularly the Light Roast consistently delivered the strongest margins but never received the commercial attention its performance warranted. This inverted relationship between popularity and profitability is the single most important thing this business needs to act on.
 The size analysis reinforces this pattern. All four cup sizes attract roughly equal order volumes, yet the 2.5 litre cup size contributes 30% of total profit despite receiving no apparent pricing or promotional advantage over smaller sizes. This is not a product that is underperforming; it is a product that is being underutilised. The opportunity is not to generate new demand but to redirect existing demand toward a higher-margin option that customers are already willing to purchase.
-The customer and demand analysis adds important operational context. Order volumes peak between February and March and fall significantly between August and October, providing a predictable seasonal rhythm the business can plan staffing, stock, and promotions around. The top nine customers are closely clustered in spend between ₦250 and ₦340, with no single customer representing a dangerous concentration riskwhich is a healthy sign for revenue stability.
+The customer and demand analysis adds important operational context. Order volumes peak between February and March and fall significantly between August and October, providing a predictable seasonal rhythm the business can plan staffing, stock, and promotions around. The top nine customers are closely clustered in spend between $250 and $340, with no single customer representing a dangerous concentration riskwhich is a healthy sign for revenue stability.
 The loyalty programme finding is the clearest call to action. When customers without loyalty cards purchase at a higher volume than cardholders, the programme has failed its primary purpose. It is not enough to have a loyalty programme, it must be structured around behaviours that benefit the business. Tying loyalty rewards specifically to 2.5 litre cup size purchases and Liberica orders would simultaneously fix the programme's underperformance and steer customer behaviour toward higher-margin products.
 The 2.9% overall profit margin is the number that should keep management awake. It is not a crisis but it is a warning. The good news is that this analysis shows the problem is not a demand problem 3,551 orders across four years from 913 customers demonstrates genuine market traction. The problem is a pricing and product mix problem, and both are within management's control to fix. Repricing Robusta, promoting Liberica Light Roast, and redesigning the loyalty programme around margin-positive behaviour are three targeted actions that could meaningfully lift profitability without requiring a single new customer.
 > ### 💡 The Single Most Important Finding
@@ -196,8 +196,8 @@ The 2.9% overall profit margin is the number that should keep management awake. 
 ```
 CoffeeShopProject/
   ├── README.md                          ← You are here
-  ├── CoffeeOrdersData.xlsx              ← raw dataset
-  ├── CompletedCoffeeProject.xlsx        ← Cleaned & transformed dataset
+  ├── CoffeeShopData.xlsx              ← raw dataset
+  ├── CoffeeShopProject.xlsx        ← Cleaned & transformed dataset
   │
   ├── DashboardCustomer.PNG
   ├── DashboardSales.PNG
@@ -209,7 +209,7 @@ CoffeeShopProject/
 ## 🚀 How to Use This Project
 
 1. **Clone or download** this repository (green 'Code' button → Download ZIP)
-2. Open `CompletedCoffeeProject.xlsx` in Microsoft Excel (2016 or later)
+2. Open `CoffeeShopProject.xlsx` in Microsoft Excel (2016 or later)
 3. Use the **slicers** on the Dashboard tab to filter by Region, Year, Category
 4. Review `CoffeeShopProject.pdf` for the full written analysis
 
@@ -217,7 +217,7 @@ CoffeeShopProject/
 
 ## 📚 Dataset Source
 
-- **Dataset:** coffeeOrdersData.xlsx
+- **Dataset:** coffeeShopData.xlsx
 - **Source:** Mochen862/excel-project-coffee-sales (on github)
 - **License:** Public
 ---
@@ -226,7 +226,7 @@ CoffeeShopProject/
 
 ## 👤 About the Analyst
 
-**[Oluwatosin Ogunwale]** — Data Analyst | Excel • Power BI | Tech & Finance
+**[Oluwatosin Ogunwale]** — Data Analyst | Excel • Power BI •SQL | Tech & Finance
 
 - 📧 [oluwatosinogunwale35@gmail.com](mailto:https://www.oluwatosinogunwale35@gmail.com)
 - 💼 [linkedin.com/in/oluwatosin-ogunwale](https://www.linkedin.com/in/Oluwatosin-ogunwale)
